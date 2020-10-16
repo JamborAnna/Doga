@@ -1,0 +1,7 @@
+C:\Users\amk\source\repos\Jambor_Anna\Jambor_Anna\bin\Debug\Jambor_Anna.exe.config
+C:\Users\amk\source\repos\Jambor_Anna\Jambor_Anna\bin\Debug\Jambor_Anna.exe
+C:\Users\amk\source\repos\Jambor_Anna\Jambor_Anna\bin\Debug\Jambor_Anna.pdb
+C:\Users\amk\source\repos\Jambor_Anna\Jambor_Anna\obj\Debug\Jambor_Anna.csprojAssemblyReference.cache
+C:\Users\amk\source\repos\Jambor_Anna\Jambor_Anna\obj\Debug\Jambor_Anna.csproj.CoreCompileInputs.cache
+C:\Users\amk\source\repos\Jambor_Anna\Jambor_Anna\obj\Debug\Jambor_Anna.exe
+C:\Users\amk\source\repos\Jambor_Anna\Jambor_Anna\obj\Debug\Jambor_Anna.pdb
